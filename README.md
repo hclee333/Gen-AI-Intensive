@@ -1,5 +1,6 @@
 # Gen-AI-Intensive
 #### 5 day intensive course conducted by Google AI team jointly with Kaggle
+#### Link to YouTube Podcast produced using NotebookLM for Lessons each day: https://youtu.be/1CC39K76Nqs?si=V4yUCc04f8Rtm-cg
 ## Day-1-Prompting
 - Complete this code lab on Kaggle where you’ll learn prompting fundamentals. Make sure you phone verify your account before starting, it's necessary for the code labs.
 - Today you’ll explore the evolution of LLMs, from transformers to techniques like fine-tuning and inference acceleration. You’ll also get trained in the art of prompt engineering for optimal LLM interaction.
