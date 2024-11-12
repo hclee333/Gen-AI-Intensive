@@ -1,7 +1,8 @@
 # Gen-AI-Intensive
 #### 5 day intensive course conducted by Google AI team jointly with Kaggle
-## First listen to the 1) Podcast produced using NotebookLM for Lessons, explaining whitepaper that is the basis for each lesson 2) Recorded Webinar with Q&A with Google Developers responsible for each whitepaper. 
+## First: Listen to the 1) Podcast produced using NotebookLM for Lessons, explaining whitepaper that is the basis for each lesson 2) Recorded Webinar with Q&A with Google Developers responsible for each whitepaper. 
 - Follow link to YouTube https://youtu.be/1CC39K76Nqs?si=V4yUCc04f8Rtm-cg
+## Second: Sign up for an  AI Studio account and ensure you can generate an API key, save the API Key under Google_API_Key.  If you want to run the Notebooks in Kaggle, sign up for a Kaggle account. Make sure to phone verify your account, it’s necessary for the course’s code labs.
 ## Day-1-Prompting
 - Today you’ll explore the evolution of LLMs, from transformers to techniques like fine-tuning and inference acceleration. You’ll also get trained in the art of prompt engineering for optimal LLM interaction.
 - Complete this code lab on Kaggle where you’ll learn prompting fundamentals. Make sure you phone verify your account before starting, it's necessary for the code labs.
