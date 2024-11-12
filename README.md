@@ -5,7 +5,7 @@
 - Today you’ll explore the evolution of LLMs, from transformers to techniques like fine-tuning and inference acceleration. You’ll also get trained in the art of prompt engineering for optimal LLM interaction.
 - The code lab will walk you through getting started with the Gemini API and cover several prompt techniques and how different parameters impact the prompts.
 ## Day-2-Embeddings and Vector Database
-- Complete these code labs on Kaggle oday you will learn about the conceptual underpinning of embeddings and vector databases and how they can be used to bring live or specialist data into your LLM application.
+- Today you will learn about the conceptual underpinning of embeddings and vector databases and how they can be used to bring live or specialist data into your LLM application.
 - You’ll also explore their geometrical powers for classifying and comparing textual data.
 - Build a RAG question-answering system over custom documents
 - Explore text similarity with embeddings
