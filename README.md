@@ -3,7 +3,7 @@
 ## First: Listen to the 1) Podcast produced using NotebookLM for Lessons, explaining whitepaper that is the basis for each lesson 2) Recorded Webinar with Q&A with Google Developers responsible for each whitepaper. 
 - Follow link to YouTube https://youtu.be/1CC39K76Nqs?si=V4yUCc04f8Rtm-cg
 ## Second: Sign up for an  AI Studio account and ensure you can generate an API key, save the API Key under Google_API_Key.  
-- Follow link to Google AI Studio for API Key, https://aistudio.google.com/app/apikey
+- Follow link to Google AI Studio for API Key, [https://aistudio.google.com/app/apikey](https://ai.google.dev/aistudio)
 - If you want to run the Notebooks in Kaggle, sign up for a Kaggle account, https://www.kaggle.com/# 
 - Make sure to phone verify your Kaggle account, it’s necessary for the course’s code labs. But you can also run these on Google Colab or locally on Jupyter Notebook.
 ## Day-1-Prompting
