@@ -15,3 +15,6 @@
 - Complete this code lab on Kaggle where you will build a RAG question-answering system over custom documents
 - Explore text similarity with embeddings
 - Build a neural classification network with Keras using embeddings
+### Day-3-Agents
+- Today you will learn to build sophisticated AI agents by understanding their core components and the iterative development process.
+- The code labs cover how to connect LLMs to existing systems and to the real world. Learn about function calling by giving SQL tools to a chatbot, and learn how to build a LangGraph agent that takes orders in a café.
