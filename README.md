@@ -1,4 +1,5 @@
-# Gen-AI-Intensive
+# Gen-AI-Intensive <img width="63" alt="Google Kaggle Badge" src="https://github.com/user-attachments/assets/963c5032-f80b-47dd-a4b7-43afc5f43435">
+
 #### 5 day intensive course conducted by Google/DeepMinds AI team jointly with Kaggle
 ## Instructions
 #### First: Listen to the 1) Podcast produced using NotebookLM for Lessons, explaining whitepaper that is the basis for each lesson 2) Recorded Webinar with Google/DeepMinds Developers responsible for each whitepaper. 
