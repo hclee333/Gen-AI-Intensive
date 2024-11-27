@@ -25,4 +25,5 @@
 - Today you’ll delve into the creation and application of specialized LLMs like SecLM (cybersecurity) and MedLM/Med-PaLM (medicine), with insights from the researchers who built them.
 - In the code labs you will learn how to add real world data to a model beyond its knowledge cut-off by grounding with Google Search.  You will also learn how to fine-tune a custom Gemini model using your own labeled data to solve custom tasks.
 #### Day-5-Bonus with extra API Features to try
-- ML Ops and extra AI features 
+- ML Ops and extra AI features
+- Link to GitHub for Starter Pack in ML Ops for AI: https://github.com/GoogleCloudPlatform/generative-ai/tree/main/gemini/sample-apps/e2e-gen-ai-app-starter-pack
