@@ -27,3 +27,10 @@
 #### Day-5-Bonus with extra API Features to try
 - ML Ops and extra AI features
 - Link to GitHub for Starter Pack in ML Ops for AI: https://github.com/GoogleCloudPlatform/generative-ai/tree/main/gemini/sample-apps/e2e-gen-ai-app-starter-pack
+
+## More Resources
+Neptune: [https://github.com/google-deepmind/ne...](https://github.com/google-deepmind/neptune)
+Gecko: Text-to-image evaluation: https://arxiv.org/abs/2404.16820
+Google Cloud Vertex AI: vertex ai https://cloud.google.com/vertex-ai/
+Bigquery https://cloud.google.com/bigquery/
+Vertex AI GenAI evaluation Service: [https://cloud.google.com/vertex-ai/ge...](https://cloud.google.com/vertex-ai/generative-ai/docs/models/evaluation-overview)
